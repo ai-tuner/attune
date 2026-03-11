@@ -1,0 +1,8 @@
+{
+    "topics": [
+        { "title": "Light", "file": "light.json" },
+        { "title": "Sound", "file": "sound.json" },
+        { "title": "Waves", "file": "waves.json" },
+        { "title": "Space", "file": "space.json" }
+    ]
+}

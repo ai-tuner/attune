@@ -1,0 +1,11 @@
+{
+    "fullNotes": "I. CORE PRINCIPLES\n   - First point with indent\n   - Second point\n\nII. DETAILED DATA\n   1. Sub-point A\n   2. Sub-point B",
+    "questions": [
+        {
+            "q": "What is the primary goal of this topic?",
+            "a": "To master the material",
+            "options": ["To skip the test", "To fail", "To ignore notes"],
+            "explanation": "Mastery requires active recall. [img:pencil.png]"
+        }
+    ]
+}

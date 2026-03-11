@@ -1,0 +1,17 @@
+{
+    "fullNotes": "I. TYPES OF WAVES\n   - Transverse: Particles move perpendicular to wave direction (e.g., Light, Water waves).\n   - Longitudinal: Particles move parallel to wave direction (e.g., Sound).\n\nII. WAVE ANATOMY\n   - Wavelength (λ): Distance between two consecutive crests or troughs.\n   - Frequency (f): Number of waves per second (Hertz).\n   - Amplitude: Maximum displacement from rest position.\n\nIII. THE WAVE EQUATION\n   - Velocity (v) = Frequency (f) × Wavelength (λ)",
+    "questions": [
+        {
+            "q": "In a transverse wave, what is the highest point of the wave called?",
+            "a": "Crest",
+            "options": ["Trough", "Node", "Amplitude"],
+            "explanation": "The peak is the crest, while the lowest point is the trough. "
+        },
+        {
+            "q": "What type of wave requires a physical medium to propagate?",
+            "a": "Mechanical Waves",
+            "options": ["Electromagnetic Waves", "Radio Waves", "X-rays"],
+            "explanation": "Mechanical waves, like sound or water waves, need matter to travel. Electromagnetic waves can travel through empty space."
+        }
+    ]
+}
