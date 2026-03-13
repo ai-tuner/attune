@@ -197,7 +197,7 @@
         }
 
         .option-btn.wrong {
-            background: #ffe3e3;
+            background: #fdf2f2;
             color: #333333 !important;
             border: 1px solid #acacac;
             
@@ -256,7 +256,7 @@
             display: block;
             padding: 15px;
             border-radius: 10px;
-            border: 1px solid #ccc;
+            border: 1px solid #f1f1f1;
             font-size: 1rem;
         }
 
@@ -403,7 +403,7 @@
             <div class="question-section">${cur.q}</div>
             <div class="explanation-box" id="explanation" style="display: ${cur.solved ? 'block' : 'none'}">${formatExplanation(cur.explanation)}</div>
             <div class="options-section" id="options"></div>
-            <div class="nav-controls"><button class="nav-btn" onclick="prevQuestion()">◀ Back</button><button class="nav-btn" style="background:#fdf2f2; color:#c0392b;" onclick="showExplanation()">Hint</button><button class="nav-btn" onclick="nextQuestion()">Next ▶</button></div>`;
+            <div class="nav-controls"><button class="nav-btn" onclick="prevQuestion()">◀ Back</button><button class="nav-btn" style="background:#f3fff3; color:#000000;" onclick="showExplanation()">Hint</button><button class="nav-btn" onclick="nextQuestion()">Next ▶</button></div>`;
 
             const optDiv = document.getElementById('options');
             cur.shuffledOptions.forEach(opt => {
